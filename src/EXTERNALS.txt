@@ -1,0 +1,5 @@
+#
+## update with: svn propset svn:externals -F ./EXTERNALS.txt .
+#
+arkeblc.skin http://svn.affinitic.be/plone/arkeblc/arkeblc.skin
+
